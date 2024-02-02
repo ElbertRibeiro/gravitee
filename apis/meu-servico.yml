@@ -1,2 +1,4 @@
-name: MinhaAPI
-url-swagger: url
+apis:
+  - nome-api:
+    url-swagger:
+    tags: [ exemplo, exemplo1, exemplo2]
